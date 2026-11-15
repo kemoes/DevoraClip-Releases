@@ -1,5 +1,5 @@
 # DevoraClip-Releases
- # DevoraClip v2.0.4
+ # DevoraClip 8
 
 A modern clipboard manager for Windows designed to make clipboard history faster, smarter, and more productive.
 
